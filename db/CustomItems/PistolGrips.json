@@ -1,0 +1,81 @@
+{
+  "6a998957368eeeb7a33eb389": {
+    "itemTplToClone": "5e81c6bf763d9f754677beff",
+    "parentId": "55818a684bdc2ddd698b456d",
+    "handbookParentId": "5b5f761f86f774094242f1a1",
+    "overrideProperties": {
+      "ExaminedByDefault": true,
+      "Prefab": {
+        "path": "Mods/Colt1911_MIDAS/pistolgrip_colt1911midas.bundle",
+        "rcid": ""
+      },
+      "Ergonomics": 13,
+      "Weight": 0.12
+    },
+    "locales": {
+      "en": {
+        "name": "Golden Boy's Colt 1911 Grip",
+        "shortName": "GB 1911",
+        "description": "This grip is designed to fit full-size Colt 1911 pistols and provide a durable, functional replacement or upgrade. This is a part of the Colt 1911 belonging to Songkram \"Golden Boy\" Manivanh, the leader of the Pha Lang criminal gang."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_pistol_grip",
+      "mod_pistolgrip_000"
+    ],
+    "fleaPriceRoubles": 23683,
+    "handbookPriceRoubles": 5150,
+    "addtoTraders": true,
+    "addtoBots": false,
+    "addtoStaticLootContainers": true,
+    "staticLootContainers": [
+      {
+        "containerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+        "probability": 3
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+        "probability": 3
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+        "probability": 3
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+        "probability": 3
+      },
+      {
+        "containerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+        "probability": 3
+      },
+      {
+        "containerName": "LOOTCONTAINER_WOODEN_CRATE",
+        "probability": 3
+      }
+    ],
+    "masteries": false,
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "traders": {
+      "PEACEKEEPER": {
+        "695b201bcc7f15f9e36887b7": {
+          "barterSettings": {
+            "loyalLevel": 4,
+            "unlimitedCount": true,
+            "stackObjectsCount": 3
+          },
+          "barters": [
+            {
+              "count": 47,
+              "_tpl": "MONEY_DOLLARS"
+            }
+          ]
+        }
+      }
+    },
+    "masterySections": []
+  }
+}

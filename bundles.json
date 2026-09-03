@@ -1,0 +1,13 @@
+{
+  "manifest": [
+    {
+      "key": "Mods/Colt1911_MIDAS/pistolgrip_colt1911midas.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    }
+  ]
+  
+}
