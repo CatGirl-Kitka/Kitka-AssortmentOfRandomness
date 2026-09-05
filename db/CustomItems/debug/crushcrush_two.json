@@ -1,0 +1,129 @@
+{
+  "6a9ca4ec4f8c87d2e542a4ad": {
+
+    "itemTplToClone": "675a04fdb8913ff13e0496bb",
+    "parentId": "6759673c76e93d8eb20b2080",
+    "handbookParentId": "5b47574386f77428ca22b2f4",
+
+    "overrideProperties": {
+      "QuestItem": false,  
+      "ExaminedByDefault": true,
+
+      "Prefab": {
+
+        "path": "debug/crushcrush_two.bundle",
+        "rcid": ""
+
+      },
+
+      "Width": 2,
+      "Height": 2,
+      "Weight": 0.45,
+
+      "BackgroundColor": "blue",
+      "DiscardLimit": 10,
+      "ExamineExperience": 0,
+      "ExamineTime": 0,
+      "ExtraSizeDown": 0,
+      "ExtraSizeForceAdd": false,
+      "ExtraSizeLeft": 0,
+      "ExtraSizeRight": 0,
+      "ExtraSizeUp": 0,
+      "HideEntrails": false,
+      "InsuranceDisabled": false,
+      "IsAlwaysAvailableForInsurance": false,
+      "IsLockedafterEquip": false,
+      "IsSecretExitRequirement": false,
+      "IsSpecialSlotOnly": false,
+      "IsUnbuyable": false,
+      "IsUndiscardable": false,
+      "IsUngivable": false,
+      "IsUnremovable": false,
+      "IsUnsaleable": false,
+      "ItemSound": "generic",
+      "LeftHandItem": false,
+      "LootExperience": 0,
+      "NotShownInSlot": false,
+      "MergesWithChildren": false,
+
+      "Grids": []
+      },
+
+
+    "locales": {
+      "en": {
+        "name": "debug crushcrush poster",
+        "shortName": "crushcrush",
+        "description": "crush crush poster to debug"
+      }
+    },
+
+    "fleaPriceRoubles": 0,
+
+    "handbookPriceRoubles": 0,
+
+    "addtoHideoutPosterSlots": true,
+
+    "addPosterToMaps": true,
+
+    "posterSpawnProbability": 20,
+
+    "addtoStatuetteSlots": false,
+
+    "addCaliberToAllCloneLocations": false,
+
+    "addtoStaticAmmo": false,
+
+    "CanSellOnRagfair": false,
+    
+    "CanRequireOnRagfair": false,
+
+    "addtoBots": false,
+
+    "addtoItemBlacklist": false, 
+
+    "staticAmmoProbability": 0,
+
+    "addtoSpecialSlots": false,
+
+    "addtoModSlots": false,
+
+    "modSlot": [""],
+
+    "addtoHallOfFame": false,
+    "hallOfFameSlots": [
+      "smallTrophies"
+    ],
+
+    "addtoGeneratorAsFuel": false,
+
+    "generatorFuelSlotStages": [
+      "1",
+      "2",
+      "3"
+    ],
+
+    "addtoEmptyPropSlots": false,
+
+    "emptyPropSlot": {
+      "itemToAddTo": "",
+      "modSlot": ""
+    },
+    
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [],
+
+    "addtoSecureFilters": false,
+
+    "addtoTraders": false,
+
+    "traders": {
+          },
+          "barters": [
+            {
+              "count": 0,
+              "_tpl": "0" 
+            }
+          ]
+  }
+}
