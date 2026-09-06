@@ -1,0 +1,160 @@
+{
+  "6a9d8427cb91c34d762c9e9b": {
+
+    "itemTplToClone": "66573310a1657263d816a139",
+    "parentId": "62f109593b54472778797866",
+    "handbookParentId": "5b47574386f77428ca22b2f4",
+
+    "overrideProperties": {
+      "QuestItem": false,  
+      "ExaminedByDefault": true,
+
+      "Prefab": {
+
+        "path": "Special/gz_metalsuitcase.bundle",
+        "rcid": ""
+
+      },
+
+      "Width": 2,
+      "Height": 2,
+      "Weight": 0.3,
+
+      "BackgroundColor": "violet",
+      "DiscardLimit": 0,
+      "ExamineExperience": 0,
+      "ExamineTime": 0,
+      "ExtraSizeDown": 0,
+      "ExtraSizeForceAdd": false,
+      "ExtraSizeLeft": 0,
+      "ExtraSizeRight": 0,
+      "ExtraSizeUp": 0,
+      "HideEntrails": false,
+      "InsuranceDisabled": false,
+      "IsAlwaysAvailableForInsurance": false,
+      "IsLockedafterEquip": false,
+      "IsSecretExitRequirement": false,
+      "IsSpecialSlotOnly": false,
+      "IsUnbuyable": true,
+      "IsUndiscardable": false,
+      "IsUngivable": false,
+      "IsUnremovable": false,
+      "IsUnsaleable": true,
+      "ItemSound": "item_metal",
+      "LeftHandItem": false,
+      "LootExperience": 0,
+      "NotShownInSlot": false,
+      "MergesWithChildren": false,
+
+      "Grids": []
+      },
+
+
+    "locales": {
+      "en": {
+        "name": "Unlocked Crate",
+        "shortName": "Unl. Crate",
+        "description": "NEED TO EDIT"
+      }
+    },
+
+    "fleaPriceRoubles": 0,
+
+    "handbookPriceRoubles": 0,
+
+    "addtoHideoutPosterSlots": false,
+
+    "addPosterToMaps": false,
+
+    "posterSpawnProbability": 0,
+
+    "addtoStatuetteSlots": false,
+
+    "addCaliberToAllCloneLocations": false,
+
+    "addtoStaticAmmo": false,
+
+    "CanSellOnRagfair": false,
+    
+    "CanRequireOnRagfair": false,
+
+    "addtoBots": false,
+
+    "addtoItemBlacklist": false, 
+
+
+
+    "isRandomLootContainer": true,
+
+    "randomLootContainerRewards":
+    {
+          "rewardCount": 6,
+          "foundInRaid": true,
+          "rewardTplPool": {
+            "5c0530ee86f774697952d952": 5,
+            "5d235b4d86f7742e017bc88a": 100,
+            "5c1267ee86f77416ec610f72": 30,
+            "5734758f24597738025ee253": 80,
+            "5d235a5986f77443f6329bc6": 50,
+            "62a09cfe4f842e1bd12da3e4": 40,
+            "6656560053eaaa7a23349c86": 10,
+            "59faff1d86f7746c51718c9c": 1,
+            "59faf7ca86f7740dbe19f6c2": 45,
+            "5bc9bdb8d4351e003562b8a1": 60,
+            "5f745ee30acaeb0d490d8c5b": 50
+
+          }
+    },
+
+
+
+
+
+    
+
+    "staticAmmoProbability": 0,
+
+    "addtoSpecialSlots": false,
+
+    "addtoModSlots": false,
+
+    "modSlot": [""],
+
+    "addtoHallOfFame": false,
+    "hallOfFameSlots": [
+      "smallTrophies"
+    ],
+
+    "addtoGeneratorAsFuel": false,
+
+    "generatorFuelSlotStages": [
+      "1",
+      "2",
+      "3"
+    ],
+
+    "addtoEmptyPropSlots": false,
+
+    "emptyPropSlot": {
+      "itemToAddTo": "",
+      "modSlot": ""
+    },
+    
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [],
+
+    "addtoSecureFilters": false,
+
+    "addtoTraders": false,
+
+    "traders": {
+          },
+          "barters": [
+            {
+              "count": 0,
+              "_tpl": "0" 
+        
+            }
+          ]
+  }
+}
