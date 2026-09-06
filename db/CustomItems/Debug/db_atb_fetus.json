@@ -1,5 +1,5 @@
 {
-  "6a9c9ad0e0b334e8b8f5b408": {
+  "6a9d4d81a884c41184988582": {
 
     "itemTplToClone": "590c2e1186f77425357b6124",
     "parentId": "54009119af1c881c07000029",
@@ -11,16 +11,16 @@
 
       "Prefab": {
 
-        "path": "debug/fetus.bundle",
+        "path": "Debug/db_atb_fetus.bundle",
         "rcid": ""
 
       },
 
       "Width": 2,
       "Height": 2,
-      "Weight": 0.45,
+      "Weight": 0.01,
 
-      "BackgroundColor": "blue",
+      "BackgroundColor": "red",
       "DiscardLimit": 10,
       "ExamineExperience": 0,
       "ExamineTime": 0,
@@ -40,7 +40,7 @@
       "IsUngivable": false,
       "IsUnremovable": false,
       "IsUnsaleable": false,
-      "ItemSound": "generic",
+      "ItemSound": "drink",
       "LeftHandItem": false,
       "LootExperience": 0,
       "NotShownInSlot": false,
@@ -52,9 +52,9 @@
 
     "locales": {
       "en": {
-        "name": "debug fetus",
-        "shortName": "fetus",
-        "description": "fetus asset from amnesia the bunker"
+        "name": "(DEBUG) Fetus",
+        "shortName": "Fetus",
+        "description": "Fetus asset from amnesia the bunker"
       }
     },
 

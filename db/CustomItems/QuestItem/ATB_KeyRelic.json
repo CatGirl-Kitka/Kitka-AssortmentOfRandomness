@@ -1,9 +1,9 @@
 {
-  "6a9c9ad0e0b334e8b8f5b408": {
+  "6a9d3881f5cb6b445334f500": {
 
-    "itemTplToClone": "675a04fdb8913ff13e0496bb",
-    "parentId": "6759673c76e93d8eb20b2080",
-    "handbookParentId": "5b47574386f77428ca22b2f4",
+    "itemTplToClone": "593962ca86f774068014d9af",
+    "parentId": "5c99f98d86f7745c314214b3",
+    "handbookParentId": "5c518ec986f7743b68682ce2",
 
     "overrideProperties": {
       "QuestItem": false,  
@@ -11,17 +11,17 @@
 
       "Prefab": {
 
-        "path": "Debug/crushcrush_one.bundle",
+        "path": "QuestItem/ATB/atb_keyrelic.bundle",
         "rcid": ""
 
       },
 
-      "Width": 2,
-      "Height": 2,
-      "Weight": 0.01,
+      "Width": 1,
+      "Height": 1,
+      "Weight": 0.3,
 
-      "BackgroundColor": "red",
-      "DiscardLimit": 10,
+      "BackgroundColor": "yellow",
+      "DiscardLimit": 0,
       "ExamineExperience": 0,
       "ExamineTime": 0,
       "ExtraSizeDown": 0,
@@ -40,7 +40,7 @@
       "IsUngivable": false,
       "IsUnremovable": false,
       "IsUnsaleable": false,
-      "ItemSound": "item_paper",
+      "ItemSound": "keys",
       "LeftHandItem": false,
       "LootExperience": 0,
       "NotShownInSlot": false,
@@ -52,9 +52,9 @@
 
     "locales": {
       "en": {
-        "name": "(DEBUG) Iro Poster",
-        "shortName": "Iro CC",
-        "description": "A poster of \"Iro\" a character from the game Crush Crush"
+        "name": "Ornate Oxidized Key",
+        "shortName": "Old Key",
+        "description": "An unusually long bronze key, heavily encrusted with a mottled green patina. The bow features intricate, almost religious cutouts and sharp points, leading down to a shaft adorned with strange geometric spheres and cubes that still show faint glimmers of the original metal. The simple, heavily worn teeth suggest it belongs to a lock that predates Tarkov's modern infrastructure by centuries.n\"While most locals dismiss it as useless ceremonial scrap, rumor has it the Collector has a deep, obsessive interest in finding this exact artifact—and whatever forgotten vault it belongs to."
       }
     },
 
@@ -62,9 +62,9 @@
 
     "handbookPriceRoubles": 0,
 
-    "addtoHideoutPosterSlots": true,
+    "addtoHideoutPosterSlots": false,
 
-    "addPosterToMaps": true,
+    "addPosterToMaps": false,
 
     "posterSpawnProbability": 0,
 
