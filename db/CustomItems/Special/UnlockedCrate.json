@@ -88,20 +88,39 @@
 
     "randomLootContainerRewards":
     {
-          "rewardCount": 6,
+          "rewardCount": 8,
           "foundInRaid": true,
           "rewardTplPool": {
-            "5c0530ee86f774697952d952": 5,
-            "5d235b4d86f7742e017bc88a": 100,
-            "5c1267ee86f77416ec610f72": 30,
-            "5734758f24597738025ee253": 80,
-            "5d235a5986f77443f6329bc6": 50,
-            "62a09cfe4f842e1bd12da3e4": 40,
-            "6656560053eaaa7a23349c86": 10,
-            "59faff1d86f7746c51718c9c": 1,
-            "59faf7ca86f7740dbe19f6c2": 45,
-            "5bc9bdb8d4351e003562b8a1": 60,
-            "5f745ee30acaeb0d490d8c5b": 50
+            "5c0530ee86f774697952d952": 5, //LEDX Skin Transilluminator - 970,000
+
+            "5c1267ee86f77416ec610f72": 50, //Chain with Prokill medallion - 85,000
+
+            "5734758f24597738025ee253": 150, //Golden neck chain - 38,177
+
+            "5d235a5986f77443f6329bc6": 100, //Gold skull ring - 55,000
+
+            "62a09cfe4f842e1bd12da3e4": 80, //Golden egg - 68,000
+
+            "6656560053eaaa7a23349c86": 5, //Lega Medal - 150,000
+
+            "59faff1d86f7746c51718c9c": 1, //Physical Bitcoin - 1,012,700
+
+            "59faf7ca86f7740dbe19f6c2": 70, //Roler Submariner gold wrist watch - 71,049
+
+            "5bc9bdb8d4351e003562b8a1": 90, //Silver Badge - 60,290
+
+            "5f745ee30acaeb0d490d8c5b": 90, //Veritas guitar pick - 60,290
+
+            "6a9babbc4e37a4d51eff7f06": 150, //Expensive Smartphone BY KITKA - 33,249
+
+            "6a9bb8cdf5d547420083b92e": 80, //Lamborghini Luxury Smartphone BY KITKA - 66,249
+
+
+            //DEBUG ITEM UNDER
+            "6a9c9ad0e0b334e8b8f5b408": 1, //Iro Poster
+            "6a9ca4cb5c019d99224fb9e7": 1, //Elle Poster
+            "6a9ca4ec4f8c87d2e542a4ad": 1 //Peanut Poster
+            //DEBUG ITEM OVER
 
           }
     },
