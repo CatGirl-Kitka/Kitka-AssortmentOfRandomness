@@ -57,7 +57,7 @@
       ]
     },
     {
-      "key": "debug/fetus.bundle",
+      "key": "Debug/db_atb_fetus.bundle",
       "dependencyKeys": [
         "shaders",
         "cubemaps",
@@ -65,7 +65,7 @@
       ]
     },
     {
-      "key": "debug/crushcrush_one.bundle",
+      "key": "Debug/crushcrush_one.bundle",
       "dependencyKeys": [
         "shaders",
         "cubemaps",
@@ -73,7 +73,7 @@
       ]
     },
     {
-      "key": "debug/crushcrush_two.bundle",
+      "key": "Debug/crushcrush_two.bundle",
       "dependencyKeys": [
         "shaders",
         "cubemaps",
@@ -81,7 +81,15 @@
       ]
     },
     {
-      "key": "debug/crushcrush_three.bundle",
+      "key": "Debug/crushcrush_three.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "QuestItem/ATB/atb_keyrelic.bundle",
       "dependencyKeys": [
         "shaders",
         "cubemaps",

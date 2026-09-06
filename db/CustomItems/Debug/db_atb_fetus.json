@@ -1,9 +1,9 @@
 {
-  "6a9c9ad0e0b334e8b8f5b408": {
+  "6a9d4d81a884c41184988582": {
 
-    "itemTplToClone": "675a04fdb8913ff13e0496bb",
-    "parentId": "6759673c76e93d8eb20b2080",
-    "handbookParentId": "5b47574386f77428ca22b2f4",
+    "itemTplToClone": "590c2e1186f77425357b6124",
+    "parentId": "54009119af1c881c07000029",
+    "handbookParentId": "5b47574386f77428ca22b2f6",
 
     "overrideProperties": {
       "QuestItem": false,  
@@ -11,7 +11,7 @@
 
       "Prefab": {
 
-        "path": "Debug/crushcrush_one.bundle",
+        "path": "Debug/db_atb_fetus.bundle",
         "rcid": ""
 
       },
@@ -40,7 +40,7 @@
       "IsUngivable": false,
       "IsUnremovable": false,
       "IsUnsaleable": false,
-      "ItemSound": "item_paper",
+      "ItemSound": "drink",
       "LeftHandItem": false,
       "LootExperience": 0,
       "NotShownInSlot": false,
@@ -52,9 +52,9 @@
 
     "locales": {
       "en": {
-        "name": "(DEBUG) Iro Poster",
-        "shortName": "Iro CC",
-        "description": "A poster of \"Iro\" a character from the game Crush Crush"
+        "name": "(DEBUG) Fetus",
+        "shortName": "Fetus",
+        "description": "Fetus asset from amnesia the bunker"
       }
     },
 
@@ -62,9 +62,9 @@
 
     "handbookPriceRoubles": 0,
 
-    "addtoHideoutPosterSlots": true,
+    "addtoHideoutPosterSlots": false,
 
-    "addPosterToMaps": true,
+    "addPosterToMaps": false,
 
     "posterSpawnProbability": 0,
 
