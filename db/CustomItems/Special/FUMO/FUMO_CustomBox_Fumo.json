@@ -1,0 +1,152 @@
+{
+  "6a9f9baf77f5eae836da2293": {
+
+    "itemTplToClone": "66572b88ac60f009f270d1dc",
+    "parentId": "590c745b86f7743cc433c5f2",
+    "handbookParentId": "5b47574386f77428ca22b2f4",
+
+    "overrideProperties": {
+      "QuestItem": false,  
+      "ExaminedByDefault": true,
+
+      "Prefab": {
+
+        "path": "Special/FUMO/fumo_custombox_fumo.bundle",
+        "rcid": ""
+
+      },
+
+      "Width": 2,
+      "Height": 2,
+      "Weight": 0.3,
+
+      "BackgroundColor": "violet",
+      "DiscardLimit": 0,
+      "ExamineExperience": 0,
+      "ExamineTime": 0,
+      "ExtraSizeDown": 0,
+      "ExtraSizeForceAdd": false,
+      "ExtraSizeLeft": 0,
+      "ExtraSizeRight": 0,
+      "ExtraSizeUp": 0,
+      "HideEntrails": false,
+      "InsuranceDisabled": false,
+      "IsAlwaysAvailableForInsurance": false,
+      "IsLockedafterEquip": false,
+      "IsSecretExitRequirement": false,
+      "IsSpecialSlotOnly": false,
+      "IsUnbuyable": true,
+      "IsUndiscardable": false,
+      "IsUngivable": false,
+      "IsUnremovable": false,
+      "IsUnsaleable": true,
+      "ItemSound": "container",
+      "LeftHandItem": false,
+      "LootExperience": 0,
+      "NotShownInSlot": false,
+      "MergesWithChildren": false,
+
+      "Grids": []
+      },
+
+
+    "locales": {
+      "en": {
+        "name": "Sealed Fumo Crate",
+        "shortName": "Fumo Crate",
+        "description": "NEED TO EDIT"
+      }
+    },
+
+    "fleaPriceRoubles": 0,
+
+    "handbookPriceRoubles": 0,
+
+    "addtoHideoutPosterSlots": false,
+
+    "addPosterToMaps": false,
+
+    "posterSpawnProbability": 0,
+
+    "addtoStatuetteSlots": false,
+
+    "addCaliberToAllCloneLocations": false,
+
+    "addtoStaticAmmo": false,
+
+    "CanSellOnRagfair": false,
+    
+    "CanRequireOnRagfair": false,
+
+    "addtoBots": false,
+
+    "addtoItemBlacklist": false, 
+
+
+
+    "isRandomLootContainer": true,
+
+    "randomLootContainerRewards":
+    {
+          "rewardCount": 8,
+          "foundInRaid": true,
+          "rewardTplPool": {
+          
+            "6a9f861793794bd7fabbd9f4": 1 // delete this one after
+            //"mangoid here": 1 //
+
+          }
+    },
+
+
+
+
+
+    
+
+    "staticAmmoProbability": 0,
+
+    "addtoSpecialSlots": false,
+
+    "addtoModSlots": false,
+
+    "modSlot": [""],
+
+    "addtoHallOfFame": false,
+    "hallOfFameSlots": [
+      "smallTrophies"
+    ],
+
+    "addtoGeneratorAsFuel": false,
+
+    "generatorFuelSlotStages": [
+      "1",
+      "2",
+      "3"
+    ],
+
+    "addtoEmptyPropSlots": false,
+
+    "emptyPropSlot": {
+      "itemToAddTo": "",
+      "modSlot": ""
+    },
+    
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [],
+
+    "addtoSecureFilters": false,
+
+    "addtoTraders": false,
+
+    "traders": {
+          },
+          "barters": [
+            {
+              "count": 0,
+              "_tpl": "0" 
+        
+            }
+          ]
+  }
+}

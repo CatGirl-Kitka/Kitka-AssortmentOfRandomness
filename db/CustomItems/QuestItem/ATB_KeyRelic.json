@@ -1,0 +1,129 @@
+{
+  "6a9d3881f5cb6b445334f500": {
+
+    "itemTplToClone": "593962ca86f774068014d9af",
+    "parentId": "5c99f98d86f7745c314214b3",
+    "handbookParentId": "5c518ec986f7743b68682ce2",
+
+    "overrideProperties": {
+      "QuestItem": false,  
+      "ExaminedByDefault": true,
+
+      "Prefab": {
+
+        "path": "QuestItem/ATB/atb_keyrelic.bundle",
+        "rcid": ""
+
+      },
+
+      "Width": 1,
+      "Height": 1,
+      "Weight": 0.3,
+
+      "BackgroundColor": "yellow",
+      "DiscardLimit": 0,
+      "ExamineExperience": 0,
+      "ExamineTime": 0,
+      "ExtraSizeDown": 0,
+      "ExtraSizeForceAdd": false,
+      "ExtraSizeLeft": 0,
+      "ExtraSizeRight": 0,
+      "ExtraSizeUp": 0,
+      "HideEntrails": false,
+      "InsuranceDisabled": false,
+      "IsAlwaysAvailableForInsurance": false,
+      "IsLockedafterEquip": false,
+      "IsSecretExitRequirement": false,
+      "IsSpecialSlotOnly": false,
+      "IsUnbuyable": false,
+      "IsUndiscardable": false,
+      "IsUngivable": false,
+      "IsUnremovable": false,
+      "IsUnsaleable": false,
+      "ItemSound": "keys",
+      "LeftHandItem": false,
+      "LootExperience": 0,
+      "NotShownInSlot": false,
+      "MergesWithChildren": false,
+
+      "Grids": []
+      },
+
+
+    "locales": {
+      "en": {
+        "name": "Ornate Oxidized Key",
+        "shortName": "Old Key",
+        "description": "An unusually long bronze key, heavily encrusted with a mottled green patina. The bow features intricate, almost religious cutouts and sharp points, while the shaft is adorned with strange geometric spheres and cubes. The simple, heavily worn teeth suggest a lock that predates modern Tarkov's infrastructure by centuries. While most locals dismiss it as useless ceremonial scrap, rumor has it the Collector has a deep, obsessive interest in finding this exact artifact and whatever forgotten vault it belongs to."
+      }
+    },
+
+    "fleaPriceRoubles": 0,
+
+    "handbookPriceRoubles": 0,
+
+    "addtoHideoutPosterSlots": false,
+
+    "addPosterToMaps": false,
+
+    "posterSpawnProbability": 0,
+
+    "addtoStatuetteSlots": false,
+
+    "addCaliberToAllCloneLocations": false,
+
+    "addtoStaticAmmo": false,
+
+    "CanSellOnRagfair": false,
+    
+    "CanRequireOnRagfair": false,
+
+    "addtoBots": false,
+
+    "addtoItemBlacklist": false, 
+
+    "staticAmmoProbability": 0,
+
+    "addtoSpecialSlots": false,
+
+    "addtoModSlots": false,
+
+    "modSlot": [""],
+
+    "addtoHallOfFame": false,
+    "hallOfFameSlots": [
+      "smallTrophies"
+    ],
+
+    "addtoGeneratorAsFuel": false,
+
+    "generatorFuelSlotStages": [
+      "1",
+      "2",
+      "3"
+    ],
+
+    "addtoEmptyPropSlots": false,
+
+    "emptyPropSlot": {
+      "itemToAddTo": "",
+      "modSlot": ""
+    },
+    
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [],
+
+    "addtoSecureFilters": false,
+
+    "addtoTraders": false,
+
+    "traders": {
+          },
+          "barters": [
+            {
+              "count": 0,
+              "_tpl": "0" 
+            }
+          ]
+  }
+}
