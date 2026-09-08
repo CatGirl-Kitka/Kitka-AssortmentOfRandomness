@@ -1,9 +1,9 @@
 {
-  "6a9babbc4e37a4d51eff7f06": {
+  "6a9f9baf77f5eae836da2293": {
 
-    "itemTplToClone": "5bc9b720d4351e450201234b",
-    "parentId": "57864a66245977548f04a81f",
-    "handbookParentId": "5b47574386f77428ca22b2ef",
+    "itemTplToClone": "66572b88ac60f009f270d1dc",
+    "parentId": "590c745b86f7743cc433c5f2",
+    "handbookParentId": "5b47574386f77428ca22b2f4",
 
     "overrideProperties": {
       "QuestItem": false,  
@@ -11,19 +11,19 @@
 
       "Prefab": {
 
-        "path": "Barter/Valuables/Electronics/gz_expensivesmartphone.bundle",
+        "path": "Special/FUMO/fumo_custombox_fumo.bundle",
         "rcid": ""
 
       },
 
-      "Width": 1,
-      "Height": 1,
-      "Weight": 0.35,
+      "Width": 2,
+      "Height": 2,
+      "Weight": 0.3,
 
       "BackgroundColor": "violet",
-      "DiscardLimit": 1,
-      "ExamineExperience": 100,
-      "ExamineTime": 1,
+      "DiscardLimit": 0,
+      "ExamineExperience": 0,
+      "ExamineTime": 0,
       "ExtraSizeDown": 0,
       "ExtraSizeForceAdd": false,
       "ExtraSizeLeft": 0,
@@ -35,14 +35,14 @@
       "IsLockedafterEquip": false,
       "IsSecretExitRequirement": false,
       "IsSpecialSlotOnly": false,
-      "IsUnbuyable": false,
+      "IsUnbuyable": true,
       "IsUndiscardable": false,
       "IsUngivable": false,
       "IsUnremovable": false,
-      "IsUnsaleable": false,
-      "ItemSound": "generic",
+      "IsUnsaleable": true,
+      "ItemSound": "container",
       "LeftHandItem": false,
-      "LootExperience": 100,
+      "LootExperience": 0,
       "NotShownInSlot": false,
       "MergesWithChildren": false,
 
@@ -52,15 +52,15 @@
 
     "locales": {
       "en": {
-        "name": "Expensive Smartphone",
-        "shortName": "EPhone",
-        "description": "A slider-style expensive smartphone."
+        "name": "Sealed Fumo Crate",
+        "shortName": "Fumo Crate",
+        "description": "NEED TO EDIT"
       }
     },
 
-    "fleaPriceRoubles": 57459,
+    "fleaPriceRoubles": 0,
 
-    "handbookPriceRoubles": 33249,
+    "handbookPriceRoubles": 0,
 
     "addtoHideoutPosterSlots": false,
 
@@ -82,6 +82,28 @@
 
     "addtoItemBlacklist": false, 
 
+
+
+    "isRandomLootContainer": true,
+
+    "randomLootContainerRewards":
+    {
+          "rewardCount": 8,
+          "foundInRaid": true,
+          "rewardTplPool": {
+          
+            "6a9f861793794bd7fabbd9f4": 1 // delete this one after
+            //"mangoid here": 1 //
+
+          }
+    },
+
+
+
+
+
+    
+
     "staticAmmoProbability": 0,
 
     "addtoSpecialSlots": false,
@@ -90,7 +112,7 @@
 
     "modSlot": [""],
 
-    "addtoHallOfFame": true,
+    "addtoHallOfFame": false,
     "hallOfFameSlots": [
       "smallTrophies"
     ],
@@ -110,13 +132,8 @@
       "modSlot": ""
     },
     
-    "addtoStaticLootContainers": true,
-    "staticLootContainers": [
-      {
-        "containerName": "",
-        "probability": 15 
-      }
-    ],
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [],
 
     "addtoSecureFilters": false,
 
@@ -128,6 +145,7 @@
             {
               "count": 0,
               "_tpl": "0" 
+        
             }
           ]
   }
