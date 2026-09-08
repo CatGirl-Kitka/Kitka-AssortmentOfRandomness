@@ -1,9 +1,9 @@
 {
-  "6a9f63782fa7ed1e0bcf7cc5": {
+  "6a9f861793794bd7fabbd9f4": {
 
-    "itemTplToClone": "5751961824597720a31c09ac",
-    "parentId": "5c164d2286f774194c5e69fa",
-    "handbookParentId": "5c518ed586f774119a772aee",
+    "itemTplToClone": "5d235b4d86f7742e017bc88a",
+    "parentId": "5448eb774bdc2d0a728b4567",
+    "handbookParentId": "5b47574386f77428ca22b2f1",
 
     "overrideProperties": {
       "QuestItem": false,  
@@ -11,16 +11,16 @@
 
       "Prefab": {
 
-        "path": "Debug/keycard_adoprepvs2.bundle",
+        "path": "Special/FUMO/fumo_bunseikobai.bundle",
         "rcid": ""
 
       },
 
       "Width": 1,
       "Height": 1,
-      "Weight": 0.01,
+      "Weight": 0.1,
 
-      "BackgroundColor": "red",
+      "BackgroundColor": "violet",
       "DiscardLimit": 0,
       "ExamineExperience": 0,
       "ExamineTime": 0,
@@ -36,11 +36,10 @@
       "IsSecretExitRequirement": false,
       "IsSpecialSlotOnly": false,
       "IsUnbuyable": false,
-      "IsUndiscardable": false,
+      "IsUndiscardable": true,
       "IsUngivable": false,
       "IsUnremovable": false,
-      "IsUnsaleable": false,
-      //"ItemSound": "keys",
+      "IsUnsaleable": true,
       "LeftHandItem": false,
       "LootExperience": 0,
       "NotShownInSlot": false,
@@ -52,15 +51,15 @@
 
     "locales": {
       "en": {
-        "name": "(DEBUG) Weird bloody keycard",
-        "shortName": "WeirdCard2",
-        "description": "A very weird keycard. Nothing like this should exist in Tarkov yet it does... How strange."
+        "name": "Bunsei Koban",
+        "shortName": "Edo Coin",
+        "description": "An antique Japanese gold coin from the late Edo period (1819-1828). It's incredibly old, shaped like a flat oval, and most importantly: it's very, very shiny. Why is a piece of Edo-period currency floating around the Norvinsk region? Nobody knows. While a regular PMC can't exactly cram this into a vending machine for a slicker bar, a certain feline-inclined local trader goes absolutely feral for them. Rumor has it she collects them strictly because they make a great noise when batted across a hardwood floor."
       }
     },
 
     "fleaPriceRoubles": 0,
 
-    "handbookPriceRoubles": 0,
+    "handbookPriceRoubles": 100000,
 
     "addtoHideoutPosterSlots": false,
 
@@ -81,6 +80,7 @@
     "addtoBots": false,
 
     "addtoItemBlacklist": false, 
+
 
     "staticAmmoProbability": 0,
 
@@ -115,15 +115,10 @@
 
     "addtoSecureFilters": false,
 
-    "addtoTraders": false,
+    "addtoTraders": false
 
-    "traders": {
-          },
-          "barters": [
-            {
-              "count": 0,
-              "_tpl": "0" 
-            }
-          ]
+
+        
   }
-}
+        
+  }

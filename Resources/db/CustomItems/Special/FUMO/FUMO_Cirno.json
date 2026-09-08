@@ -1,9 +1,9 @@
 {
-  "6a9f9baf77f5eae836da2293": {
+  "6a9fe1677e2c0e895a3ff0d6": {
 
-    "itemTplToClone": "66572b88ac60f009f270d1dc",
-    "parentId": "590c745b86f7743cc433c5f2",
-    "handbookParentId": "5b47574386f77428ca22b2f4",
+    "itemTplToClone": "59e3647686f774176a362507",
+    "parentId": "5448eb774bdc2d0a728b4567",
+    "handbookParentId": "5b47574386f77428ca22b2f1",
 
     "overrideProperties": {
       "QuestItem": false,  
@@ -11,14 +11,14 @@
 
       "Prefab": {
 
-        "path": "Special/FUMO/fumo_custombox_fumo.bundle",
+        "path": "Special/FUMO/fumo_cirno.bundle",
         "rcid": ""
 
       },
 
       "Width": 2,
       "Height": 2,
-      "Weight": 0.3,
+      "Weight": 0.0,
 
       "BackgroundColor": "violet",
       "DiscardLimit": 0,
@@ -40,7 +40,7 @@
       "IsUngivable": false,
       "IsUnremovable": false,
       "IsUnsaleable": true,
-      "ItemSound": "container",
+      "ItemSound": "generic",
       "LeftHandItem": false,
       "LootExperience": 0,
       "NotShownInSlot": false,
@@ -52,15 +52,15 @@
 
     "locales": {
       "en": {
-        "name": "Sealed Fumo Crate",
-        "shortName": "Fumo Crate",
-        "description": "NEED TO EDIT"
+        "name": "(FUMO) Cirno plushie",
+        "shortName": "Cirno",
+        "description": "A suspiciously soft, blue-haired anomaly pulled from a \"Nya-K\" crate. Despite extensive testing by bored PMCs in the Hideout, this plushie offers exactly zero ballistic protection against 7.62x39mm rounds. However, it radiates an aggressively smug aura that the cat-girl trader insists makes it \"the strongest\" object in the Norvinsk region. Best kept safe in your Secure Container to assert psychological dominance over anyone who loots your corpse."
       }
     },
 
-    "fleaPriceRoubles": 0,
+    "fleaPriceRoubles": 56789,
 
-    "handbookPriceRoubles": 0,
+    "handbookPriceRoubles": 55432,
 
     "addtoHideoutPosterSlots": false,
 
@@ -83,27 +83,6 @@
     "addtoItemBlacklist": false, 
 
 
-
-    "isRandomLootContainer": true,
-
-    "randomLootContainerRewards":
-    {
-          "rewardCount": 8,
-          "foundInRaid": true,
-          "rewardTplPool": {
-          
-            "6a9f861793794bd7fabbd9f4": 1 // delete this one after
-            //"mangoid here": 1 //
-
-          }
-    },
-
-
-
-
-
-    
-
     "staticAmmoProbability": 0,
 
     "addtoSpecialSlots": false,
@@ -112,9 +91,9 @@
 
     "modSlot": [""],
 
-    "addtoHallOfFame": false,
+    "addtoHallOfFame": true,
     "hallOfFameSlots": [
-      "smallTrophies"
+      "bigTrophies"
     ],
 
     "addtoGeneratorAsFuel": false,

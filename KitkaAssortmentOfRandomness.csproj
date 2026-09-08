@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net9.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <RootNamespace>KitkaExfilAssortment</RootNamespace>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="SPTarkov.Common" Version="4.0.13" />
+      <PackageReference Include="SPTarkov.DI" Version="4.0.13" />
+      <PackageReference Include="SPTarkov.Server.Core" Version="4.0.13" />
+      <PackageReference Include="SPTarkov.Server.Web" Version="4.0.13" />
+      <PackageReference Include="WTT-ServerCommonLib" Version="2.0.24" />
+    </ItemGroup>
+
+</Project>
