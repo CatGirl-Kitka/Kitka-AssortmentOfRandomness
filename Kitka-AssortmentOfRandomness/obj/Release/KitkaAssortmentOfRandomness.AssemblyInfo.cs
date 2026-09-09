@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KitkaAssortmentOfRandomness")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("0.0.1.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("0.0.1+51720700e2892123aae38e6360883d4701f8fcb7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("0.0.1+0feb6f714e65479c8950cd1cf987f8c78ff90a47")]
 [assembly: System.Reflection.AssemblyProductAttribute("KitkaAssortmentOfRandomness")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KitkaAssortmentOfRandomness")]
 [assembly: System.Reflection.AssemblyVersionAttribute("0.0.1.0")]
