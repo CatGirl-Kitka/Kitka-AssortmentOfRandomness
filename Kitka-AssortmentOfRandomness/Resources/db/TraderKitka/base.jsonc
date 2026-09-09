@@ -1,0 +1,126 @@
+{
+  "_id": "6a9fab04f9087f22b2c86f6a",
+  "availableInRaid": false,
+  "avatar": "/files/trader/avatar/kitka.jpg",
+  "balance_dol": 7000000,
+  "balance_eur": 7000000,
+  "balance_rub": 7000000,
+  "buyer_up": false,
+  "currency": "RUB",
+  "customization_seller": false,
+  "discount": 0,
+  "discount_end": 0,
+  "gridHeight": 160,
+  "insurance": {
+    "availability": false,
+    "excluded_category": [],
+    "max_return_hour": 36,
+    "max_storage_time": 72,
+    "min_payment": 0,
+    "min_return_hour": 24
+  },
+  "isAvailableInPVE": true,
+  "isCanTransferItems": false,
+  "isCanTransferItemsFromPve": false,
+  "items_buy": {
+    "category": [
+
+    ],
+    "id_list": [
+      
+      "6a9fe1677e2c0e895a3ff0d6",
+      "6aa04afcd0b60da03e3ff2df",
+      "6aa04d7ece7f9c8fc2261f52",
+      "6aa04dddb3a77c79b688cadb",
+      "6aa04f0523400c23ea3e7927",
+      "6aa050c4fd5e1de4c85c5cab",
+      "6aa051b296b68a886902707d"
+
+    ]
+  },
+  "items_buy_prohibited": {
+    "category": [],
+    "id_list": [
+      "62e910aaf957f2915e0a5e36",
+      "64d0b40fbe2eed70e254e2d4",
+      "65ddcc9cfa85b9f17d0dfb07",
+      "65ca457b4aafb5d7fc0dcb5d",
+      "660312cc4d6cdfa6f500c703",
+      "660bbc98c38b837877075e4a",
+      "660bc341c38b837877075e4c",
+      "6638a5474e92f038531e210e",
+      "66bc98a01a47be227a5e956e",
+      "6655e35b6bc645cb7b059912",
+      "666879d498b97e3a8f09f1ae",
+      "6399f54b0a36db13c823ad21",
+      "66687bc89111279d600b5062",
+      "66d98233302686954b0c6f81",
+      "6707d0bdaab679420007e01a",
+      "6707d0804e617ec94f0e562f",
+      "67408903268737ef6908d432",
+      "6841b6b674a3c16f5e03d653",
+      "67614b6b47c71ea3d40256d7",
+      "67614b542eb91250020f2b86",
+      "6841b2506c1fcc41ed0db319",
+      "6841b3463fcc417de40a6768",
+      "6841b3ab322db20d190b4b9b",
+      "6759bb94b8913ff13e049669",
+      "6759e07e4ff23436160d7fed",
+      "6841b179322db20d190b4b99",
+      "6841b1ff51bf8645f7067bca"
+    ]
+  },
+  "items_sell": {
+    "1": {
+      "category": [],
+      "id_list": [
+        "6aa0219e34b5feec27d96247",
+        "6aa021e5d376f06b796676e4"
+      ]
+    }
+  },
+  "location": "Inside a secret Cat Cafe in Street of Tarkov",
+  "loyaltyLevels": [
+    {
+      "buy_price_coef": 1,
+      "exchange_price_coef": 0,
+      "heal_price_coef": 0,
+      "insurance_price_coef": "1",
+      "minLevel": 1,
+      "minSalesSum": 0,
+      "minStanding": 0,
+      "repair_price_coef": 1
+    }
+  ],
+  "mainDialogue": null,
+  "medic": false,
+  "name": "Kitka",
+  "nextResupply": 1631483553,
+  "nickname": "Kitka",
+  "prohibitedTransferableItems": {
+    "category": [],
+    "id_list": []
+  },
+  "repair": {
+    "availability": false,
+    "currency": "5449016a4bdc2d6f028b456f",
+    "currency_coefficient": 1,
+    "excluded_category": [],
+    "excluded_id_list": [],
+    "quality": "1"
+  },
+  "sell_category": [],
+  "sell_modifier_for_prohibited_items": 0,
+  "surname": "Kitka",
+  "transferableItems": {
+    "category": [
+      
+      
+    ],
+    "id_list": [
+
+      
+    ]
+  },
+  "unlockedByDefault": true
+}

@@ -1,0 +1,127 @@
+{
+  "6a9f63782fa7ed1e0bcf7cc5": {
+
+    "itemTplToClone": "5751961824597720a31c09ac",
+    "parentId": "5c164d2286f774194c5e69fa",
+    "handbookParentId": "5c518ed586f774119a772aee",
+
+    "overrideProperties": {
+      "QuestItem": false,  
+      "ExaminedByDefault": true,
+
+      "Prefab": {
+
+        "path": "Debug/keycard_adoprepvs2.bundle",
+        "rcid": ""
+
+      },
+
+      "Width": 1,
+      "Height": 1,
+      "Weight": 0.01,
+
+      "BackgroundColor": "red",
+      "DiscardLimit": 0,
+      "ExamineExperience": 0,
+      "ExamineTime": 0,
+      "ExtraSizeDown": 0,
+      "ExtraSizeForceAdd": false,
+      "ExtraSizeLeft": 0,
+      "ExtraSizeRight": 0,
+      "ExtraSizeUp": 0,
+      "HideEntrails": false,
+      "InsuranceDisabled": false,
+      "IsAlwaysAvailableForInsurance": false,
+      "IsLockedafterEquip": false,
+      "IsSecretExitRequirement": false,
+      "IsSpecialSlotOnly": false,
+      "IsUnbuyable": false,
+      "IsUndiscardable": false,
+      "IsUngivable": false,
+      "IsUnremovable": false,
+      "IsUnsaleable": false,
+
+      "LeftHandItem": false,
+      "LootExperience": 0,
+      "NotShownInSlot": false,
+      "MergesWithChildren": false,
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false,
+
+      "Grids": []
+      },
+
+
+    "locales": {
+      "en": {
+        "name": "(DEBUG) Weird bloody keycard",
+        "shortName": "WeirdCard2",
+        "description": "A very weird keycard. Nothing like this should exist in Tarkov yet it does... How strange."
+      }
+    },
+
+    "fleaPriceRoubles": 0,
+
+    "handbookPriceRoubles": 0,
+
+    "addtoHideoutPosterSlots": false,
+
+    "addPosterToMaps": false,
+
+    "posterSpawnProbability": 0,
+
+    "addtoStatuetteSlots": false,
+
+    "addCaliberToAllCloneLocations": false,
+
+    "addtoStaticAmmo": false,
+
+    "addtoBots": false,
+
+    "addtoItemBlacklist": false, 
+
+    "staticAmmoProbability": 0,
+
+    "addtoSpecialSlots": false,
+
+    "addtoModSlots": false,
+
+    "modSlot": [""],
+
+    "addtoHallOfFame": false,
+    "hallOfFameSlots": [
+      "smallTrophies"
+    ],
+
+    "addtoGeneratorAsFuel": false,
+
+    "generatorFuelSlotStages": [
+      "1",
+      "2",
+      "3"
+    ],
+
+    "addtoEmptyPropSlots": false,
+
+    "emptyPropSlot": {
+      "itemToAddTo": "",
+      "modSlot": ""
+    },
+    
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [],
+
+    "addtoSecureFilters": false,
+
+    "addtoTraders": false,
+
+    "traders": {
+          },
+          "barters": [
+            {
+              "count": 0,
+              "_tpl": "0" 
+            }
+          ]
+  }
+}

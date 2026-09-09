@@ -1,0 +1,46 @@
+{
+  "items":
+  [
+
+    {
+      "_id": "6aa0219e34b5feec27d96247", 
+      "_tpl": "6a9f861793794bd7fabbd9f4",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd":
+      {
+        "UnlimitedCount": true,
+        "StackObjectsCount": 200,
+        "BuyRestrictionMax": 99,
+        "BuyRestrictionCurrent": 0
+      }
+    },
+        {
+      "_id": "6aa021e5d376f06b796676e4", 
+      "_tpl": "6a9f9baf77f5eae836da2293",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd":
+      {
+        "UnlimitedCount": true,
+        "StackObjectsCount": 200,
+        "BuyRestrictionMax": 99,
+        "BuyRestrictionCurrent": 0
+      }
+    }
+
+  ],
+  "barter_scheme": 
+  {
+    
+    "6aa0219e34b5feec27d96247":  [ [ { "count": 100000,  "_tpl": "5449016a4bdc2d6f028b456f"} ] ],
+    "6aa021e5d376f06b796676e4":  [ [ { "count": 1,  "_tpl": "6a9f861793794bd7fabbd9f4"} ] ]
+
+  },
+  "loyal_level_items":
+  {
+    "6aa0219e34b5feec27d96247": 1, 
+    "6aa021e5d376f06b796676e4": 1
+    
+  }
+}

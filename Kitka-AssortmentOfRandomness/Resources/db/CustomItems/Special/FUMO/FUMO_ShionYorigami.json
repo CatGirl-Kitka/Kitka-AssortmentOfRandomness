@@ -1,0 +1,128 @@
+{
+  "6aa050c4fd5e1de4c85c5cab": {
+
+    "itemTplToClone": "655c669103999d3c810c025b",
+    "parentId": "57864a3d24597754843f8721",
+    "handbookParentId": "5b47574386f77428ca22b2f1",
+
+    "overrideProperties": {
+      "QuestItem": false,  
+      "ExaminedByDefault": false,
+
+      "Prefab": {
+
+        "path": "Special/FUMO/fumo_shionyorigami.bundle",
+        "rcid": ""
+
+      },
+
+      "Width": 2,
+      "Height": 2,
+      "Weight": 0.0,
+
+      "BackgroundColor": "violet",
+      "DiscardLimit": 0,
+      "ExamineExperience": 50,
+      "ExamineTime": 0.1,
+      "ExtraSizeDown": 0,
+      "ExtraSizeForceAdd": false,
+      "ExtraSizeLeft": 0,
+      "ExtraSizeRight": 0,
+      "ExtraSizeUp": 0,
+      "HideEntrails": false,
+      "InsuranceDisabled": false,
+      "IsAlwaysAvailableForInsurance": false,
+      "IsLockedafterEquip": false,
+      "IsSecretExitRequirement": false,
+      "IsSpecialSlotOnly": false,
+      "IsUnbuyable": true,
+      "IsUndiscardable": false,
+      "IsUngivable": false,
+      "IsUnremovable": false,
+      "IsUnsaleable": true,
+      "LeftHandItem": false,
+      "LootExperience": 0,
+      "NotShownInSlot": false,
+      "MergesWithChildren": false,
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false,
+
+      "Grids": []
+      },
+
+
+    "locales": {
+      "en": {
+        "name": "(FUMO) Shion Yorigami plushie",
+        "shortName": "Shion",
+        "description": "A surprisingly shabby-looking plushie of a blue-haired girl. You just spent a priceless, solid gold Bunsei Koban on a \"Nya-K\" Care Package only to unbox the literal Goddess of Poverty, arguably the worst trade deal in the history of the Norvinsk region. She provides zero ballistic protection, but her presence perfectly explains why you are perpetually out of Roubles and your Scav Case keeps returning absolutely nothing of value."
+      }
+    },
+
+    "fleaPriceRoubles": 56789,
+
+    "handbookPriceRoubles": 55432,
+
+    "addtoHideoutPosterSlots": false,
+
+    "addPosterToMaps": false,
+
+    "posterSpawnProbability": 0,
+
+    "addtoStatuetteSlots": false,
+
+    "addCaliberToAllCloneLocations": false,
+
+    "addtoStaticAmmo": false,
+
+    "addtoBots": false,
+
+    "addtoItemBlacklist": false, 
+
+
+    "staticAmmoProbability": 0,
+
+    "addtoSpecialSlots": false,
+
+    "addtoModSlots": false,
+
+    "modSlot": [""],
+
+    "addtoHallOfFame": true,
+    "hallOfFameSlots": [
+      "bigTrophies"
+    ],
+
+    "addtoGeneratorAsFuel": false,
+
+    "generatorFuelSlotStages": [
+      "1",
+      "2",
+      "3"
+    ],
+
+    "addtoEmptyPropSlots": false,
+
+    "emptyPropSlot": {
+      "itemToAddTo": "",
+      "modSlot": ""
+    },
+    
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [],
+
+    "addtoSecureFilters": false,
+
+    "addtoTraders": false,
+
+    "traders": {
+          },
+          "barters": [
+            {
+              "count": 0,
+              "_tpl": "0" 
+        
+            }
+          ]
+  }
+}

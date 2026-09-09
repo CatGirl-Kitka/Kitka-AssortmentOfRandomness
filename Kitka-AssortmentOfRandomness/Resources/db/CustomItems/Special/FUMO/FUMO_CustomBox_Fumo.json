@@ -1,0 +1,152 @@
+{
+  "6a9f9baf77f5eae836da2293": {
+
+    "itemTplToClone": "66573310a1657263d816a139",
+    "parentId": "62f109593b54472778797866",
+    "handbookParentId": "5b47574386f77428ca22b2f4",
+
+    "overrideProperties": {
+      "QuestItem": false,  
+      "ExaminedByDefault": true,
+
+      "Prefab": {
+
+        "path": "Special/FUMO/fumo_custombox_fumo.bundle",
+        "rcid": ""
+
+      },
+
+      "Width": 2,
+      "Height": 2,
+      "Weight": 3,
+
+      "BackgroundColor": "violet",
+      "DiscardLimit": 0,
+      "ExamineExperience": 0,
+      "ExamineTime": 0,
+      "ExtraSizeDown": 0,
+      "ExtraSizeForceAdd": false,
+      "ExtraSizeLeft": 0,
+      "ExtraSizeRight": 0,
+      "ExtraSizeUp": 0,
+      "HideEntrails": false,
+      "InsuranceDisabled": false,
+      "IsAlwaysAvailableForInsurance": false,
+      "IsLockedafterEquip": false,
+      "IsSecretExitRequirement": false,
+      "IsSpecialSlotOnly": false,
+      "IsUnbuyable": false,
+      "IsUndiscardable": true,
+      "IsUngivable": false,
+      "IsUnremovable": false,
+      "IsUnsaleable": true,
+      "ItemSound": "container",
+      "LeftHandItem": false,
+      "LootExperience": 0,
+      "NotShownInSlot": false,
+      "MergesWithChildren": false,
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false,
+
+
+      "Grids": []
+      },
+
+
+    "locales": {
+      "en": {
+        "name": "\"Nya-K\" Care Package",
+        "shortName": "Nya-K",
+        "description": "A  military surplus crate that has been aggressively spray-painted with pink cat paws. Traded by Tarkov's most eccentric cat-eared local for exactly one Bunsei Koban gold coin. Despite the heavy-duty latches and tactical warning labels, this box contains absolutely zero combat value. Opening it yields one random Touhou Fumo plushie with equal probability. Local scavs are terrified of their big, soulless eyes, but they look great sitting on your Hideout workbench."
+      }
+    },
+
+    "fleaPriceRoubles": 0,
+
+    "handbookPriceRoubles": 100000,
+
+    "addtoHideoutPosterSlots": false,
+
+    "addPosterToMaps": false,
+
+    "posterSpawnProbability": 0,
+
+    "addtoStatuetteSlots": false,
+
+    "addCaliberToAllCloneLocations": false,
+
+    "addtoStaticAmmo": false,
+
+    "addtoBots": false,
+
+    "addtoItemBlacklist": false, 
+
+
+
+    "isRandomLootContainer": true,
+
+    "randomLootContainerRewards":
+    {
+          "rewardCount": 1,
+          "foundInRaid": true,
+          "rewardTplPool": {
+          
+            "6a9fe1677e2c0e895a3ff0d6": 10, 
+            "6a9f861793794bd7fabbd9f4": 10,
+            "6aa04afcd0b60da03e3ff2df": 10,
+            "6aa04d7ece7f9c8fc2261f52": 10,
+            "6aa04dddb3a77c79b688cadb": 10,
+            "6aa04f0523400c23ea3e7927": 10,
+            "6aa050c4fd5e1de4c85c5cab": 10,
+            "6aa051b296b68a886902707d": 10
+
+
+          }
+    },
+
+
+
+
+
+    
+
+    "staticAmmoProbability": 0,
+
+    "addtoSpecialSlots": false,
+
+    "addtoModSlots": false,
+
+    "modSlot": [""],
+
+    "addtoHallOfFame": false,
+    "hallOfFameSlots": [
+      "smallTrophies"
+    ],
+
+    "addtoGeneratorAsFuel": false,
+
+    "generatorFuelSlotStages": [
+      "1",
+      "2",
+      "3"
+    ],
+
+    "addtoEmptyPropSlots": false,
+
+    "emptyPropSlot": {
+      "itemToAddTo": "",
+      "modSlot": ""
+    },
+    
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [],
+
+    "addtoSecureFilters": false,
+
+    "addtoTraders": false
+
+
+        
+  }
+        
+  }

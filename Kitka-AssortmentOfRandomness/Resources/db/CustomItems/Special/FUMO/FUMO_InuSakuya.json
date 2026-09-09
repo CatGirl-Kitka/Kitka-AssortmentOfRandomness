@@ -1,0 +1,130 @@
+{
+  "6aa04d7ece7f9c8fc2261f52": {
+
+    "itemTplToClone": "655c669103999d3c810c025b",
+    "parentId": "57864a3d24597754843f8721",
+    "handbookParentId": "5b47574386f77428ca22b2f1",
+
+    "overrideProperties": {
+      "QuestItem": false,  
+      "ExaminedByDefault": false,
+
+      "Prefab": {
+
+        "path": "Special/FUMO/fumo_inusakuya.bundle",
+        "rcid": ""
+
+      },
+
+      "Width": 2,
+      "Height": 2,
+      "Weight": 0.0,
+
+      "BackgroundColor": "violet",
+      "DiscardLimit": 0,
+      "ExamineExperience": 50,
+      "ExamineTime": 0.1,
+      "ExtraSizeDown": 0,
+      "ExtraSizeForceAdd": false,
+      "ExtraSizeLeft": 0,
+      "ExtraSizeRight": 0,
+      "ExtraSizeUp": 0,
+      "HideEntrails": false,
+      "InsuranceDisabled": false,
+      "IsAlwaysAvailableForInsurance": false,
+      "IsLockedafterEquip": false,
+      "IsSecretExitRequirement": false,
+      "IsSpecialSlotOnly": false,
+      "IsUnbuyable": true,
+      "IsUndiscardable": false,
+      "IsUngivable": false,
+      "IsUnremovable": false,
+      "IsUnsaleable": true,
+      "LeftHandItem": false,
+      "LootExperience": 0,
+      "NotShownInSlot": false,
+      "MergesWithChildren": false,
+      "CanSellOnRagfair": false,
+      "CanRequireOnRagfair": false,
+
+      "Grids": []
+      },
+
+
+    "locales": {
+      "en": {
+        "name": "(FUMO) Inu Sakuya plushie",
+        "shortName": "InuSakuya",
+        "description": "A soft plushie of a silver-haired maid sporting floppy dog ears. Why did the cat-girl trader put a dog in your \"Nya-K\" crate? She claims it was a logistical error, but it's incredibly obvious she just wanted this specific doll out of her inventory. It offers zero ballistic protection, though paranoid PMCs swear they occasionally find tiny throwing knives embedded in their Hideout walls after leaving it unattended."
+      }
+    },
+
+    "fleaPriceRoubles": 56789,
+
+    "handbookPriceRoubles": 55432,
+
+    "addtoHideoutPosterSlots": false,
+
+    "addPosterToMaps": false,
+
+    "posterSpawnProbability": 0,
+
+    "addtoStatuetteSlots": false,
+
+    "addCaliberToAllCloneLocations": false,
+
+    "addtoStaticAmmo": false,
+
+
+
+    "addtoBots": false,
+
+    "addtoItemBlacklist": false, 
+
+
+    "staticAmmoProbability": 0,
+
+    "addtoSpecialSlots": false,
+
+    "addtoModSlots": false,
+
+    "modSlot": [""],
+
+    "addtoHallOfFame": true,
+    "hallOfFameSlots": [
+      "bigTrophies"
+    ],
+
+    "addtoGeneratorAsFuel": false,
+
+    "generatorFuelSlotStages": [
+      "1",
+      "2",
+      "3"
+    ],
+
+    "addtoEmptyPropSlots": false,
+
+    "emptyPropSlot": {
+      "itemToAddTo": "",
+      "modSlot": ""
+    },
+    
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [],
+
+    "addtoSecureFilters": false,
+
+    "addtoTraders": false,
+
+    "traders": {
+          },
+          "barters": [
+            {
+              "count": 0,
+              "_tpl": "0" 
+        
+            }
+          ]
+  }
+}

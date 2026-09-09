@@ -1,0 +1,33 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <LangVersion>latest</LangVersion>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Version>0.0.1</Version>
+    <AssemblyName>KitkaAssortmentOfRandomness</AssemblyName>
+    <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
+    <OutputType>Library</OutputType>
+    <OutputPath>bin\$(Configuration)\$(ProjectName)\$(AssemblyName)-$(Version)\</OutputPath>
+  </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="SPTushonka.Common" Version="4.1.5" />
+      <PackageReference Include="SPTushonka.DI" Version="4.1.5" />
+      <PackageReference Include="SPTushonka.Reflection" Version="4.1.5" />
+      <PackageReference Include="SPTushonka.Server.Core" Version="4.1.5" />
+      <PackageReference Include="SPTushonka.Server.Web" Version="4.1.5" />
+      <PackageReference Include="WTT-ClientCommonLib" Version="3.0.6" />
+      <PackageReference Include="WTT-ServerCommonLib" Version="3.0.6" />
+    </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Resources\bundles\" />
+    <Folder Include="Resources\db\CustomItems\" />
+    <Folder Include="Resources\db\TraderKitka\" />
+    <Folder Include="Resources\db\CustomHideoutRecipes\" />
+  </ItemGroup>
+  
+
+</Project>

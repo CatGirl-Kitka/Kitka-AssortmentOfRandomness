@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KitkaAssortmentOfRandomness", "KitkaAssortmentOfRandomness\KitkaAssortmentOfRandomness.csproj", "{5D542CAD-562C-474E-BF05-07264D2A162F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kitka Exfil Assortment", "Kitka-AssortmentOfRandomness\KitkaAssortmentOfRandomness.csproj", "{5D542CAD-562C-474E-BF05-07264D2A162F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
